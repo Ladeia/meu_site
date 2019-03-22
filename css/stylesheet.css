@@ -1,0 +1,17 @@
+/*Declaração de fonte*/
+@font-face {
+    font-family: 'MadScience';
+    src: url('../fonts/MadScience.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1
+{
+	font-family:'MadScience';
+}
+
+div
+{
+	border: 2px red doted;
+}
